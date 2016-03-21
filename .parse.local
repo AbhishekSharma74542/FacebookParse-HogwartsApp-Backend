@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Hogwarts": {
+      "applicationId": "uYSAdJpjzt2IkQNmF5ZlwpewfGLxjB5sn6uSaLOS"
+    },
+    "_default": {
+      "link": "Hogwarts"
+    }
+  }
+}
